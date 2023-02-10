@@ -8,9 +8,4 @@ Bulls and Cows is a classic code-breaking number guessing game. The game works a
 
 A "bull" is a correct digit in the right place, while a "cow" is a correct digit in the wrong place. The goal of the game is to correctly guess the secret number by using the feedback from the game. The game ends when the player correctly guesses the secret number.
 
-
-<p>Write your own advanced version of the classic code breaking game "Bulls and Cows". Start with recreating the original version of the game and then take it to a new level.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/53?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/53</a>
-
-Here's the link to the project: https://hyperskill.org/projects/53
-
 Check out my profile: https://hyperskill.org/profile/396402561
